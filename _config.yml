@@ -36,7 +36,7 @@ defaults:
   values:
     endereco:
     google_maps:
-    telefone:
+    telefones:
     - rotulo:
       numero:
 lang: pt_BR
