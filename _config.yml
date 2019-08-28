@@ -5,6 +5,9 @@ collections:
   cardapio:
     title: Cardápio
     output: true
+  locais:
+    title: Locais
+    output: true
   posts:
     title: Posts
     output: true
