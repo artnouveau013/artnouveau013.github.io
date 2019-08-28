@@ -7,7 +7,7 @@ collections:
     output: true
   locais:
     title: Locais
-    output: true
+    output: false
   posts:
     title: Posts
     output: true
