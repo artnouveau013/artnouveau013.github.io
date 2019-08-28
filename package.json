@@ -1,0 +1,19 @@
+{
+  "name": "artnouveau013.github.io",
+  "version": "1.0.0",
+  "scripts": {
+    "jekyll:fix": "gem uninstall eventmachine --force && gem install eventmachine --platform ruby",
+    "jekyll:serve": "bundle exec jekyll serve --livereload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artnouveau013/artnouveau013.github.io.git"
+  },
+  "keywords": [],
+  "author": "Johnylab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artnouveau013/artnouveau013.github.io/issues"
+  },
+  "homepage": "https://github.com/artnouveau013/artnouveau013.github.io#readme"
+}
