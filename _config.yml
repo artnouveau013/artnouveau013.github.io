@@ -2,6 +2,9 @@
 title: Art Nouveau 013
 timezone: America/Sao_Paulo
 collections:
+  cardapio:
+    title: Cardápio
+    output: true
   posts:
     title: Posts
     output: true
